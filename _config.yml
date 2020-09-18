@@ -13,5 +13,10 @@ twitter_username: Chitreshg13
 github_username:  Chitresh13
 #gplus_username:  lorem_ipsum
 
+# Google-analytics
+google-analytics:
+  id: G-0Y0V4PS82W
+
+
 exclude: ['package.json', 'src' , 'node_modules']
 
